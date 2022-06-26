@@ -1,6 +1,6 @@
 "use strict";
 
-//Dom Elements
+//Add Dom Elements
 const displayDay = document.querySelector(".day");
 const displayDate = document.querySelector(".date");
 const displayTime = document.querySelector(".time");
